@@ -2,7 +2,7 @@
 
 A simple and powerful resume builder that helps you create clean, professional resumes in minutes — without paying for premium tools.
 
-This project is built to make resume creation आसान for everyone. Most online builders lock good features behind paywalls, so the idea here is to keep everything free and actually useful.
+This project is built to make resume creation easy for everyone. Most online builders lock good features behind paywalls, so the idea here is to keep everything free and actually useful.
 
 ---
 
