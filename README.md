@@ -8,7 +8,7 @@ This project is built to make resume creation आसान for everyone. Most on
 
 ## 🔗 Live Demo
 
-👉 [https://moin-shadab.github.io/resume-builder/](https://moin-shadab.github.io/resume-builder/)
+👉 [https://moin-shadab.github.io/resume-builder/](https://moin-shadab.github.io/free-resume/)
 
 ---
 
